@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T12:32:59 IST" name="Default suite" finished-at="2024-06-24T12:35:34 IST" duration-ms="154464">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T12:32:59 IST" name="Default test" finished-at="2024-06-24T12:35:34 IST" duration-ms="154464">
+      <class name="test.AhamLoginTest">
+        <test-method is-config="true" signature="chromeSet()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:32:59 IST" name="chromeSet" finished-at="2024-06-24T12:33:01 IST" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeSet -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:33:01 IST" name="setUp" finished-at="2024-06-24T12:33:03 IST" duration-ms="1819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="headerFooterLinks()[pri:1, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:33:03 IST" name="headerFooterLinks" finished-at="2024-06-24T12:34:55 IST" duration-ms="111688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerFooterLinks -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:34:55 IST" name="setUp" finished-at="2024-06-24T12:34:56 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerPage()[pri:2, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:34:56 IST" name="registerPage" finished-at="2024-06-24T12:34:59 IST" duration-ms="3419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPage -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:34:59 IST" name="setUp" finished-at="2024-06-24T12:35:01 IST" duration-ms="1884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:3, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:01 IST" name="testLogin" finished-at="2024-06-24T12:35:03 IST" duration-ms="2022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:03 IST" name="setUp" finished-at="2024-06-24T12:35:06 IST" duration-ms="2422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="accountManage()[pri:4, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:06 IST" name="accountManage" finished-at="2024-06-24T12:35:12 IST" duration-ms="6618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountManage -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:12 IST" name="setUp" finished-at="2024-06-24T12:35:14 IST" duration-ms="1371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="cartFeaturedproAdd()[pri:5, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:14 IST" name="cartFeaturedproAdd" finished-at="2024-06-24T12:35:29 IST" duration-ms="15200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartFeaturedproAdd -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:29 IST" name="setUp" finished-at="2024-06-24T12:35:30 IST" duration-ms="1295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkoutPage()[pri:6, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:30 IST" name="checkoutPage" finished-at="2024-06-24T12:35:34 IST" duration-ms="3563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AhamLoginTest@5fe94a96]" started-at="2024-06-24T12:35:34 IST" name="tearDown" finished-at="2024-06-24T12:35:34 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AhamLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
